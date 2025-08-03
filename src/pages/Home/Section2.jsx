@@ -1,9 +1,10 @@
 import React from 'react'
-import { Container, Row, Col } from "react-bootstrap";
+ 
 import { Link } from 'react-router-dom';
 import Pizza from '../../assets/about/pizza.png';
 import Salad from '../../assets/about/Salad.png';
 import Delivery from '../../assets/about/Delivery-bike.png';
+import { Container,Row,Col } from 'react-bootstrap';
 
 const mockData =[
   {
